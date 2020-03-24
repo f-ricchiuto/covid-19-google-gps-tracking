@@ -1,11 +1,17 @@
 # Covid-19 Coronavirus - Google GPS Tracking
 The intent of this project is to reuse the GPS tracking data already acquired on phones where Google Maps is installed.
 
+# Important
+This project is not "aggressive" with the user privacy, as it use data **already stored** on Google servers. An Android user usually accepts to share this information with Google, during the first boot of his phone (Google Account pairing).
+
 ## How it works
 When a user installs the Google Maps App on his personal device, then his movements are tracked day by day (if the user has given consent to track position).
 The intent of this service is to get this tracking data, and compare it with the movements of people reported as infected by the virus, plus, if possible, link each infection case to the one which it's coming from. 
 
-# Project Requirements
+## Access Google tracking history
+As you can read in (this)[https://stackoverflow.com/a/17626982/5871709] StackOverflow thread, it's easy to get each user's history. 
+
+## Project Requirements
 In order to work on this project, it's mandatory to verify if tracking data collected by Google Maps it's accessible by thirdy party apps through usage of Google Maps APIs. You can see this data in your Google Maps -> History.
 
 ## User requirements 
