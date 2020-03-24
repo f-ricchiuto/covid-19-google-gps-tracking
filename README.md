@@ -48,6 +48,6 @@ Healt Care professionals must get an unlock code released by authorities in orde
 In this case, the app can only receive live alerts, informing that there's an infected subject nearby. Nothing else can be done until the person does the login, in order to understand if all the permissions are ok for position tracking & matching. 
 
 ### Footnotes
-* *For example, an Android user usually accepts to share his tracking data with Google, during the first boot of the phone (Google account pairing).*
-** *Only if the user has given consent to Google to track his position!*
-*** *If that behavior is not possible, at least the user can give more attention to virus containement measures, as he/she has an higher chance of being infected*
++ * *For example, an Android user usually accepts to share his tracking data with Google, during the first boot of the phone (Google account pairing).*
++ ** *Only if the user has given consent to Google to track his position!*
++ *** *If that behavior is not possible, at least the user can give more attention to virus containement measures, as he/she has an higher chance of being infected*
